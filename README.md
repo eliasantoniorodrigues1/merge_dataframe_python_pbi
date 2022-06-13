@@ -35,4 +35,4 @@
             #"Executar script Python"
             
 # Fonte StackOverflow:
-How to use python with multiple tables in the Power query editor?(https://stackoverflow.com/questions/51947441/power-bi-how-to-use-python-with-multiple-tables-in-the-power-query-editor)
+How to use python with multiple tables in the Power query editor? [Link](https://stackoverflow.com/questions/51947441/power-bi-how-to-use-python-with-multiple-tables-in-the-power-query-editor)
