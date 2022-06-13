@@ -7,6 +7,9 @@
 # Transformar coluna de Data
 É necesário transformar as colunas de tata para texto para que o Power BI não as transforme em um objeto próprio reconhecido somente pelo PBI.
 
+# Imagem de como a tabela vazia vai ficar apos referenciar as tabelas:
+![image](https://user-images.githubusercontent.com/49626719/173365663-dfb365a4-a306-4f6c-84ef-e60ee5ae130f.png)
+
 
 # Script para fazer merge nos datasets
         # Merge data Python:
