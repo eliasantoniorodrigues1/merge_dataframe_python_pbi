@@ -12,7 +12,7 @@
 É necesário transformar as colunas de tata para texto para que o Power BI não as transforme em um objeto próprio reconhecido somente pelo PBI.
 
 # Tabela vazia após a adicao da etapa "Executa script python"
-        = Python.Execute("# Merge data Python:",[df1=f_Reservas, df2=f_Campanhas_ID])
+        = Python.Execute("# Merge data Python:",[df1=Tabela1, df2=Tabela2])
 
 # Imagem de como a tabela vazia vai ficar apos referenciar as tabelas:
 ![image](https://user-images.githubusercontent.com/49626719/173365663-dfb365a4-a306-4f6c-84ef-e60ee5ae130f.png)
